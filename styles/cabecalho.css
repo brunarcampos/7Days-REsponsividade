@@ -1,0 +1,36 @@
+
+@media screen and (min-width: 360px) {
+    .cabecalho{
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        width: 223px;
+        height: 57px;
+        margin-top: 65px;
+        margin-left: 16px;
+    }
+    
+   .foto-redonda{
+    width: 57px;
+    height: 57px;
+    border-radius: 100%;
+   } 
+   .cabecalho-nome{
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 35.2px;
+    color: var(--cor-primaria);
+    margin: 0;
+    padding: 0;
+   }
+   .cabecalho-texto{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22.4px;
+    color: var(--cor-secundaria);
+    margin: 0;
+    padding: 0;
+   }
+}

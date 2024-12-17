@@ -1,0 +1,14 @@
+@import url(styles/cabecalho.css);
+
+:root{
+    --font-family: "Montserrat";
+    --cor-fundo:rgba(248, 244, 255, 1);
+    --cor-primaria:rgba(70, 70, 70, 1);
+    --cor-secundaria: rgba(163, 163, 163, 1);
+    --cor-botao-um: 0px 4px 16px 0px rgba(255, 176, 80, 0.16);
+    --cor-botao-dois: 0px 4px 16px 0px rgba(72, 148, 255, 0.16);
+}
+
+body{
+    background-color: var(--cor-fundo);
+}
