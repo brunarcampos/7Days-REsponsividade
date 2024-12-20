@@ -1,0 +1,11 @@
+.container {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 25.6px;
+    color: var(--cor-primaria);
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-right: 16px;
+}
