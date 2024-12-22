@@ -1,5 +1,6 @@
 @import url(styles/cabecalho.css);
 @import url(styles/container.css);
+@import url(styles/caixinha.css);
 
 :root{
     --font-family: "Montserrat";
@@ -8,6 +9,8 @@
     --cor-secundaria: rgba(163, 163, 163, 1);
     --cor-botao-um: 0px 4px 16px 0px rgba(255, 176, 80, 0.16);
     --cor-botao-dois: 0px 4px 16px 0px rgba(72, 148, 255, 0.16);
+    --cor-laranja:rgba(255, 176, 80, 1);
+
 }
 
 body{
